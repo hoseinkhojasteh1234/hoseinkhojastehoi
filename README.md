@@ -7,7 +7,7 @@ import io
 
 
 # ----------------------------
-# 1️⃣  BASI SETTINGS
+# 1️⃣   SETTINGS
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
