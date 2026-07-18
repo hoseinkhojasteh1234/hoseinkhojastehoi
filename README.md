@@ -7,7 +7,7 @@
 
 
 # ----------------------------
-# 1️⃣   SETTINGS
+
 # ----------------------------
 owner = "OWNER"          # e.g. "torvalds"
 repo  = "REPO"           # e.g. "linux"
