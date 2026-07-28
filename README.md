@@ -10,7 +10,7 @@
 
 
       # e.g. "torvalds"
-"           # e.g. "linux"
+"         
           # or the default branch you need
 e repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
