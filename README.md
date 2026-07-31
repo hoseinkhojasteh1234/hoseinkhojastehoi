@@ -11,7 +11,7 @@
 
       # e.g. ""
 "         
-          # or the default branch you need
+          #  the default branch you need
 e repo is private, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
