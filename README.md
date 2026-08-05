@@ -12,7 +12,7 @@
       # e.g. ""
 "         
           #  
-e is private, set a token here:
+, set a token here:
 # token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
 headers = {}  # public repo needs no auth
