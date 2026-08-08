@@ -13,7 +13,7 @@
 "         
           #  
 , token here:
-# token = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+#ken = "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # headers = {"Authorization": f"token {token}"}
 headers = {}  # public repo needs no auth
 
