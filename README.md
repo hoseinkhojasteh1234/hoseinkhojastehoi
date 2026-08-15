@@ -14,7 +14,7 @@
           #  
 
  _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-# headers = {"Authorization": f"token {token}"}
+rs = {"Authorization": f"token {token}"}
 headers = {}  # public repo needs no auth
 
 # ----------------------------
