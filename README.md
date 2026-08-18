@@ -15,7 +15,7 @@
 
  _XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
  = {"Authorization": f"token {token}"}
-ers = {}  # public repo needs no auth
+ {}  # public repo needs no auth
 
 # ----------------------------
 # 2️⃣  FETCH ZIP ARCHIVE (quickest way to get the whole repo)
