@@ -15,7 +15,7 @@
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
  = {"Authorization": f"token {token}"}
- public repo needs no auth
+c repo needs no auth
 
 ---------------------------
 # 2️⃣  FETCH ZIP ARCHIVE (quickest way to get the whole repo)
