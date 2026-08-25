@@ -15,7 +15,7 @@
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
  = {"Authorization": f"token {token}"}
- needs no auth
+o auth
 
 ---------------------------
 # 2️⃣  FETCH ZIP ARCHIVE (quickest way to get the whole repo)
