@@ -15,7 +15,7 @@
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
  = {"Authorization": f"token {token}"}
- auth
+h
 
 ---------------------------
 # 2️⃣  FETCH ZIP ARCHIVE (quickest way to get the whole repo)
