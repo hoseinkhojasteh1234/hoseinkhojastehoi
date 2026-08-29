@@ -21,7 +21,7 @@ h
 # 2️⃣  FETCH ZIP ARCHIVE (quickest way to get the whole repo)
 # ----------------------------
 _url = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
-resp = requests.get(zip_url, headers=headers)
+sp = requests.get(zip_url, headers=headers)
 .raise_for_status()
 
 # Unpack the zip into a local folder
