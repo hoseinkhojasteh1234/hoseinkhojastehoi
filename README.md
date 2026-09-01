@@ -14,7 +14,7 @@
           #  
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
- = {"Authorization": f"token {token}"}
+ {"Authorization": f"token {token}"}
 
 
 ---------------------------
