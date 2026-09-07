@@ -20,7 +20,7 @@ horization": f"token {token}"}
 ---------------------------
   FETCH ZIP ARCHIVE (quickest way to get the whole repo)
 # ----------------------------
-rl = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
+l = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
  = requests.get(zip_url, headers=headers)
 .raise_for_status()
 
