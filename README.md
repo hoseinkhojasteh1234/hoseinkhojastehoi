@@ -14,7 +14,7 @@
           #  
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-horization": f"token {token}"}
+orization": f"token {token}"}
 
 
 ---------------------------
