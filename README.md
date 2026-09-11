@@ -14,7 +14,7 @@
           #  
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-rization": f"token {token}"}
+zation": f"token {token}"}
 
 
 ---------------------------
