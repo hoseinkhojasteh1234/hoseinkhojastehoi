@@ -21,7 +21,7 @@ tion": f"token {token}"}
   TCH ZIP ARCHIVE (quickest way to get the whole repo)
 # ----------------------------
 l = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
- = requests.get(zip_url, headers=headers)
+equests.get(zip_url, headers=headers)
 .raise_for_status()
 
 # Unpack the zip into a local folder
