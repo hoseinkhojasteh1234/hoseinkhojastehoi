@@ -22,7 +22,7 @@ on": f"token {token}"}
 # ----------------------------
 l = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 equests.get(zip_url, headers=headers)
-.raise_for_status()
+.se_for_status()
 
 # Unpack the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
