@@ -18,7 +18,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 
 ---------------------------
-IP ARCHIVE (quickest way to get the whole repo)
+P ARCHIVE (quickest way to get the whole repo)
 # ----------------------------
 l = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 quests.get(zip_url, headers=headers)
