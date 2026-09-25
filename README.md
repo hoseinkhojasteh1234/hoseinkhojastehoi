@@ -22,7 +22,7 @@ P ARCHIVE (quickest way to get the whole repo)
 # ----------------------------
 l = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 quests.get(zip_url, headers=headers)
-or_status()
+r_status()
 
 # Unpack the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
