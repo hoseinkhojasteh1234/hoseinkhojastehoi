@@ -18,7 +18,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 
 ---------------------------
-PRCHIVE (quickest way to get the whole repo)
+CHIVE (quickest way to get the whole repo)
 # ----------------------------
 l = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 quests.get(zip_url, headers=headers)
