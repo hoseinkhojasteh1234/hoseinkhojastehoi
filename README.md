@@ -21,7 +21,7 @@ en {token}"}
 CHIVE (quickest way to get the whole repo)
 # ----------------------------
 l = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
-s.g(zip_url, headers=head
+s.g(zip_url, headers=hea
 
 
 # Unpack the zip into a local folder
