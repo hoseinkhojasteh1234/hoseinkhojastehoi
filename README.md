@@ -18,7 +18,7 @@ n {tokn}"}
 
 
 ---------------------------
-CHIVE (quickest way to get the whole repo)
+CHVE (quickest way to get the whole repo)
 # ----------------------------
 l = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 (z_url, hers=hea
