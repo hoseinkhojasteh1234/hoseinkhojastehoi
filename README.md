@@ -20,7 +20,7 @@ n {kn}"}
 ---------------------------
 CE (quickest way t get the ole repo)
 # ----------------------------
-l = f"https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
+l = https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 (z_url, hs=hea
 
 
