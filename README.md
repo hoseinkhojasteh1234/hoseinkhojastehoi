@@ -18,7 +18,7 @@ n {kn}"}
 
 
 ---------------------------
- (quickest way t get the ole repo)
+ (quickeay t get the ole repo)
 # ----------------------------
 l = https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
 (z_url, hs=hea
