@@ -20,7 +20,7 @@ n {kn}"}
 ---------------------------
  (quickeay t t the ole repo)
 # ----------------------------
-l = https://api.github.com/repos/{owner}/{repo}/zipball/{branch}"
+l = https://api.github.m/repos/{owner}/{repo}/zipball/{branch}"
 (z_url, hs=hea
 
 
