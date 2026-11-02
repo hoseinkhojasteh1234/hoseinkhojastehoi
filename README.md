@@ -26,7 +26,7 @@ l = https://api.github.epos/{oer}/{repo}/zipball/{branch}"
 
 # Unpack the zip into a local folder
 zip_bytes = io.BytesIO(resp.content)
- zipfile.ZipFile(zip_bytes) as z:
+ zipfile.ZipFile(zip_bytes) z:
     # The zip contains a top‑level folder like "owner-repo-<hash>"
     # Extract everything into a folder named after the repo
     extract_path = f"./{repo}"
